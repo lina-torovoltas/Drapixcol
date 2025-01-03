@@ -29,3 +29,27 @@ The ``save_canvas`` function saves the canvas at a specific size, example:
 save_canvas(canvas, in100times)
 ```  
 This code saves the canvas "canvas" by making it 100 times bigger.
+<br />
+<br />
+Here are all the arguments that can be passed to functions:
+<br />
+Colors:  
+```
+black  
+white  
+red  
+blue  
+yellow  
+green  
+brown  
+sky_blue  
+light_sky_blue  
+violet  
+grey  
+orange  
+pink  
+light_green  
+dark_red  
+null  
+```
+You can also create your own colors as all colors are stored in RGBA format.
