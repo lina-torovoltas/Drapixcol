@@ -31,7 +31,7 @@ save_canvas(canvas, in100times)
 This code saves the canvas "canvas" by making it 100 times bigger.
 <br />
 <br />
-Here are all the arguments that can be passed to functions:
+Here are all the arguments that can be passed to functions:  
 <br />
 Colors:  
 ```
@@ -52,4 +52,16 @@ light_green
 dark_red  
 null  
 ```
-You can also create your own colors as all colors are stored in RGBA format.
+You can also create your own colors as all colors are stored in RGBA format.  
+<br />
+Transparency:  
+```
+translucent 
+transparent  
+on80  
+on60  
+on40  
+on20  
+opaque
+```  
+You can also create your own transparency since all colors are stored in RGBA format.
