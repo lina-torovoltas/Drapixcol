@@ -1,7 +1,7 @@
 # Drapixcol
-Python library for drawing with pixels<br />
+Python library for drawing with pixels.  
 
-The `create_canvas` function creates a canvas with a given width and color, example:<br />
+The `create_canvas` function creates a canvas with a given width and color, example:  
 ```python
 width, height = 10, 20
 canvas = create_canvas(width, height, white)
@@ -23,3 +23,8 @@ repeat(canvas, 10, 5, 10, forward, black)
 This code draws a sequence of pixels on the canvas "canvas" 10 times starting at coordinate x=5 y=10 moving forward, the pixel color is black,  
 You can also pass transparency as the seventh argument and the distance between pixels as the eighth argument.  
 
+The ``save_canvas`` function saves the canvas at a specific size, example:  
+```python
+save_canvas(canvas, in100times)
+```  
+This code saves the canvas "canvas" by making it 100 times bigger.
