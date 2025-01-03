@@ -78,7 +78,7 @@ down_left
 up_left
 ```
 <br />
-  
+
 Enlargement:  
 ```
 in2times  
