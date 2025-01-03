@@ -28,7 +28,7 @@ The ``save_canvas`` function saves the canvas at a specific size, example:
 ```python
 save_canvas(canvas, in100times)
 ```  
-This code saves the canvas "canvas" by making it 100 times bigger.
+This code saves the canvas "canvas" by making it 100 times bigger.  
 <br />
 <br />
 Here are all the arguments that can be passed to functions:  
@@ -64,4 +64,29 @@ on40
 on20  
 opaque
 ```  
-You can also create your own transparency since all colors are stored in RGBA format.
+You can also create your own transparency since all colors are stored in RGBA format.  
+<br />
+Directions:  
+```
+forward  
+down  
+back  
+up  
+down_right  
+up_right  
+down_left  
+up_left
+```  
+<br />
+Enlargement:  
+```
+in2times  
+in5times  
+in10times  
+in50times  
+in100times  
+in200times  
+in500times  
+in1000times
+```  
+You can also create your own magnification.
