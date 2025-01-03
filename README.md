@@ -19,4 +19,7 @@ You can also pass transparency to this function as the fifth argument.
 The `repeat` function draws a sequence of pixels in any direction and with any space between pixels, example:
 ```python
 repeat(canvas, 10, 5, 10, forward, black)
-```
+```  
+This code draws a sequence of pixels on the canvas "canvas" 10 times starting at coordinate x=5 y=10 moving forward, the pixel color is black,  
+You can also pass transparency as the seventh argument and the distance between pixels as the eighth argument.  
+
