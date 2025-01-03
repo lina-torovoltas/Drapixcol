@@ -79,14 +79,12 @@ up_left
 ```  
 <br />
 Enlargement:  
-```
-in2times  
-in5times  
-in10times  
-in50times  
-in100times  
-in200times  
-in500times  
-in1000times
-```  
+`in2times`  
+`in5times`  
+`in10times`  
+`in50times`  
+`in100times`  
+`in200times`  
+`in500times`  
+`in1000times`
 You can also create your own magnification.
