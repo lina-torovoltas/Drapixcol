@@ -1,6 +1,7 @@
 # Drapixcol
 Python library for drawing with pixels.  
 <br />
+<br />
 The `create_canvas` function creates a canvas with a given width and color, example:  
 ```python
 width, height = 10, 20
