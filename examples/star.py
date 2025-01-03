@@ -1,5 +1,6 @@
 from drapixcolor import *
 
+
 # Create a canvas size 5x5, background color - white, transparent
 width, height = 5, 5
 canvas = create_canvas(width, height, white, transparent)
