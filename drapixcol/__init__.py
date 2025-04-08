@@ -20,8 +20,6 @@ light_green = 159, 236, 83
 dark_red = 196, 30, 58
 null = 0, 0, 0, 0
 
-
-
 forward = "forward"
 down = "down"
 back = "back"
