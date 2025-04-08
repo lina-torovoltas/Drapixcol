@@ -30,9 +30,6 @@ up_right = "up_right"
 down_left = "down_left"
 up_left = "up_left"
 
-
-
-
 translucent = 112
 transparent = 0
 on80 = 180
@@ -40,8 +37,6 @@ on60 = 135
 on40 = 90
 on20 = 45
 opaque = 255
-
-
 
 in2times= 200
 in5times = 500
