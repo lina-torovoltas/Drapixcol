@@ -5,6 +5,7 @@ from drapixcol import *
 width, height = 17, 14
 canvas = create_canvas(width, height, null)
 
+
 # This code draws the structure of a diamond
 repeat(canvas, 11, 3, 1, forward)
 repeat(canvas, 17, 0, 5, forward)
@@ -36,6 +37,7 @@ repeat(canvas, 3, 3, 4, up_right, sky_blue)
 repeat(canvas, 3, 11, 2, down_right, sky_blue)
 repeat(canvas, 3, 12, 2, down_right, sky_blue)
 repeat(canvas, 3, 13, 2, down_right, sky_blue)
+
 
 # Saves the canvas by enlarging it 100 times
 save_canvas(canvas, in100times)
